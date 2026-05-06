@@ -30,7 +30,7 @@ const MODEL_MAPPING = {
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'deepseek v4 pro': 'deepseek-ai/deepseek-v4-pro',
-  'deepterminus': 'deepseek-ai/deepseek-v3.1-terminus',
+  'deepseek v4 flash': 'deepseek-ai/deepseek-v4-flash',
   'qwen': 'qwen/qwen3-235b-a22b',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
 };
