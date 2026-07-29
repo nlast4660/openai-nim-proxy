@@ -32,7 +32,7 @@ const MODEL_MAPPING = {
   'deepseek v4 pro': 'deepseek-ai/deepseek-v4-pro',
   'deepseek v4 flash': 'deepseek-ai/deepseek-v4-flash',
   'qwen': 'qwen/qwen3-235b-a22b',
-  'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
+  'gemini': 'gemma-4-31b-it' 
 };
 
 // Health check endpoint
